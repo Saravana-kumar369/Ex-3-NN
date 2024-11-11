@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME: SARAVANA KUMAR M</H3>
-<H3>ENTER YOUR REGISTER NO.: 212222230133</H3>
+<H3>NAME: SARAVANA KUMAR M</H3>
+<H3>REGISTER NO.: 212222230133</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE:</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
